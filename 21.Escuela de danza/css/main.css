@@ -1,0 +1,168 @@
+*{
+	box-sizing: border-box;
+}
+header{
+	padding-top: 30px;
+}
+ul li {
+	display: inline-block;
+	padding: 20px;
+	font-size: 16px;
+}
+.studio{
+	background-image: url("../img/dance_1.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 400px;
+	position: relative;
+	background-size: cover;
+	padding: 70px 0px 30px;
+	font-size: 13px;
+}
+.studio h1 {
+	font-size: 60px;
+}
+.studio p {
+	padding: 20px 0px;
+}
+.botonazul{
+	background-color: #030F1C;
+	width: 110px;
+	height: 40px;
+	text-align: center;
+	padding-top: 10px;
+}
+.fondo1	{
+	background-image: url("../img/textura_2.jpg");
+	width: 100%;
+	height: 350px;
+	position: relative;
+	text-align: center;
+	padding-top: 90px;
+	font-size: 18px;
+}
+.botonofertas{
+	color: white;
+	background-color: #030F1C; 
+	width: 160px;
+	height: 40px;
+	padding-top: 10px;
+	margin: auto;
+	font-size: 14px;
+}
+.deco1{
+	width: 100px;
+	height: 100px;
+}
+.fondoprofe{
+	background-image: url("../img/instructor_4.jpg");
+	background-repeat: no-repeat;
+	height: 300px;
+	position: relative;
+	background-size: cover;
+	border: 1px solid #192951;
+}
+.fondoprofe1{
+	background-image: url("../img/profesor_9.jpg");
+	background-repeat: no-repeat;
+	height: 300px;
+	position: relative;
+	background-size: cover;
+	border: 1px solid #192951;
+}
+.botoninstructores{
+	color: white;
+	background-color: #192951; 
+	width: 400px;
+	height: 60px;
+	margin: auto;
+	font-size: 16px;
+	position: relative;
+	top:240px;
+}
+.botoninstructores p {
+	position: absolute;
+	margin-top:20px;
+	margin-left:130px;
+}
+.fondo2{
+	background-image: url("../img/textura_2.jpg");
+	width: 100%;
+	height: 280px;
+	position: relative;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 80px;
+}
+.fondoazul{
+	background-color: #192951;
+	height: 400px;
+	font-size: 14px;
+	padding-left: 80px;
+	padding-top: 80px;
+
+}
+.fondoazul p:first-child{
+	margin-bottom: 90px;
+}
+.enlinea{
+	display: inline-block;
+	position: relative;
+}
+.zapatillas{
+	background-image: url("../img/shoes_!.jpg");
+    background-repeat: no-repeat;
+    height: 470px;
+    width: 700px;
+    position: absolute;
+    background-size: contain;
+    display: inline-block;
+
+}
+.nombre{
+	font-size: 14px;
+	height: 30px;
+	width: 350px;
+}
+form i{
+	padding: 3px;
+	color: gray;
+}
+input{
+	border:none;
+}
+form p{
+	border: solid gray 1px;
+	width: 400px;
+	margin-bottom: 15px; 	
+}
+.contacto{
+	font-size: 20px;
+	padding-left: 150px;
+	height: 470px;
+}
+.mensaje {
+	height: 130px;
+	position: relative;
+}
+.enviar{
+	width: 400px;
+	height: 50px;
+	background-color: #192951;
+	color:white;
+	border-radius: 5px;
+	text-align: center;
+	padding-top: 10px;
+}
+.contacto h2 {
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+footer{
+	background-color: #192951;
+	height: 50px;
+	color:white;
+	font-size: 14px;
+	padding: 20px 40px;
+
+}

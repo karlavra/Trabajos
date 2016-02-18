@@ -1,0 +1,21 @@
+div {
+	margin: 5px;
+	border: 1px solid black;
+}
+.caja {
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+}
+#der {
+	display: inline-block;
+}
+
+.linea {
+	display: inline-block;
+}
+
+.grande {
+	width: 350px;
+	background-color: gray;
+}

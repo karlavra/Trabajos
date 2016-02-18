@@ -1,0 +1,114 @@
+*{
+	box-sizing: border-box;
+}
+header{
+	padding-top: 30px;
+}
+ul li {
+	display: inline-block;
+	padding: 20px;
+	font-size: 16px;
+}
+.gray{
+	padding: 50px 
+}
+.gray .text-center h2{
+	margin-bottom: 40px;
+}
+.imgcaja{
+	background-image: url("../img/blog1.jpg");
+	height: 200px;
+	background-size: cover;
+	margin-bottom: 40px;
+}
+.imgcaja1{
+	background-image: url("../img/profesor_5.jpg");
+	height: 200px;
+	background-size: cover;
+	margin-bottom: 40px;
+}
+.imgcaja2{
+	background-image: url("../img/instructor_1.jpg");
+	height: 200px;
+	background-size: cover;
+	margin-bottom: 40px;
+}
+.barra{
+	height: 200px;
+	background-color: #D8D8D8;
+	margin-bottom: 40px;
+	padding: 30px 50px;
+	font-size: 13px;
+}
+.botonvermas{
+	background-color:  #192951;
+	width: 180px;
+	height:40px;
+	color:white;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 20px;
+	padding-top: 10px;
+	font-size: 15px;
+}
+.enlinea{
+	display: inline-block;
+	position: relative;
+}
+.zapatillas{
+	background-image: url("../img/shoes_!.jpg");
+    background-repeat: no-repeat;
+    height: 470px;
+    width: 700px;
+    position: absolute;
+    background-size: contain;
+    display: inline-block;
+
+}
+.nombre{
+	font-size: 14px;
+	height: 30px;
+	width: 350px;
+}
+form i{
+	padding: 3px;
+	color: gray;
+}
+input{
+	border:none;
+}
+form p{
+	border: solid gray 1px;
+	width: 400px;
+	margin-bottom: 15px; 	
+}
+.contacto{
+	font-size: 20px;
+	padding-left: 150px;
+	height: 470px;
+}
+.mensaje {
+	height: 130px;
+	position: relative;
+}
+.enviar{
+	width: 400px;
+	height: 50px;
+	background-color: #192951;
+	color:white;
+	border-radius: 5px;
+	text-align: center;
+	padding-top: 10px;
+}
+.contacto h2 {
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+footer{
+	background-color: #192951;
+	height: 50px;
+	color:white;
+	font-size: 14px;
+	padding: 20px 40px;
+
+}

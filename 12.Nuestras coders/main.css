@@ -1,0 +1,31 @@
+
+.coder {
+	display: inline-block;
+	position: relative;
+	margin: 15px;
+	width: 200px;
+	height: 200px
+}
+.cont {
+	width: 800px;
+
+}
+.linea {
+	border: 2px solid black;
+	width: 100px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+.name {
+	position: absolute;
+	color: white;
+	width: 100%;
+	top: 160px;
+	left: 70px;
+}
+
+h2 {
+	margin-left: 10px;
+
+}

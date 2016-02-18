@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header{
+	position: fixed;
+	width: 100%;
+	color:white;
+	z-index: 100;
+	}
+.navbar-brand{
+	padding: 0;
+	height: inherit;
+	}
+.navbar-brand img {
+	width: 232px;
+	}
+.navbar-nav{
+	padding-top: 1%;
+	}
+.navbar-default {
+    background-color: #1C1821;
+    border-color:#1C1821;
+    }
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #000000;
+    background-color: rgba(247, 186, 106, 0.82);
+	}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+	} 
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+	}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: rgba(221, 221, 221, 0.23);
+	}
+.navbar-default .navbar-toggle {
+    border-color: white;
+	}
+body{
+	background-color: #2D2735;
+}
+.banner{
+    background-image: url("../image/header-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-top: 110px;
+    padding: 12% 0%;
+}
+.cajitanegra{
+    width: 70%;
+    margin: auto;
+    background-color: #1C1821;
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+    padding: 3% 1%;
+}
+span{
+	color:#F7BA6A ;
+}
+.foto{
+	margin-top: 30px;
+    background-color: #1C1821;
+    color: white;
+    text-align: center;
+    padding-bottom: 5%;
+    margin-bottom: 10px;
+}
+.foto img{
+	width: 100%;
+}
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}

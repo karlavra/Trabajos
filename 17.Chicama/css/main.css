@@ -1,0 +1,67 @@
+*{
+	box-sizing:content-box;
+	font-family: Arial;
+}
+header{
+	background-image: url("../img/grupal.jpg");
+	background-repeat: no-repeat;
+	position: relative;
+	width: 100%;
+	height: 640px;
+	background-size: cover;
+}
+.sumate{
+	position: relative;
+	background-color: #FCB739;
+	color:black;
+	width: 120px;
+	height: 50px;
+	display: inline-block;
+	top:30px;
+}
+.suma{
+	position: relative;
+	text-align: center;
+	top: 15px;
+}
+.logo {
+	width: 350px;
+	height: 50px;
+	display: inline-block;
+	position: relative;
+	top:30px;
+	right: 30px;
+}
+.nav{
+	display: inline-block;
+	position: relative;
+	left: 750px;
+}
+ul li {
+	display: inline-block;
+	margin-right: 15px;
+}
+section {
+	
+	padding-top: 65px;
+	padding-bottom: 65px;
+}
+.enlace {
+	width: 270px;
+	height: 180px;
+	display: inline-block;
+}
+.caja {
+	margin-right: 30px;
+	font-size: 18px;
+}
+footer{
+	background-color: #323230; 
+	height: 70px;
+	color:#FAEFDC;
+	font-size: 16px;
+}
+.footer{
+	position: relative;
+	top:30px;
+}	

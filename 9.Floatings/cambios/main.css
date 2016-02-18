@@ -1,0 +1,28 @@
+.caja {
+	width: 25%;
+	height: 100px;
+
+}
+.contenedor {
+	border: 2px solid black;
+}
+.amarillo {
+	background-color: yellow;
+	float: right;
+}
+.azul {
+	background-color: blue;
+	float: right;
+}
+.rojo {
+	background-color: red;
+	float: right;
+}
+.clearfix:before, 
+.clearfix:after {
+	content:"";
+	display: table;
+}
+.clearfix:after {
+	clear:both;
+}

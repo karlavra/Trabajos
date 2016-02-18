@@ -1,0 +1,15 @@
+div {
+	margin: 5px;
+	border: 15px solid yellow;
+	padding: 30px;
+	width: 200px;
+}
+p {
+	text-align: center;
+}
+.izq {
+	text-align: left;
+}
+.centro {
+	margin: auto;
+}

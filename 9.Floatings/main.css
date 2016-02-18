@@ -1,0 +1,16 @@
+.caja {
+	width: 25%;
+	height: 100px;
+}
+.contenedor {
+	border: 2px solid black;
+}
+.amarillo {
+	background-color: yellow;
+}
+.azul {
+	background-color: blue;
+}
+.rojo {
+	background-color: red;
+}

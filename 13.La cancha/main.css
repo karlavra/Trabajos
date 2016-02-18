@@ -1,0 +1,58 @@
+* {
+	box-sizing: border-box;
+}
+.pasto {
+	width: 1000px;
+	height: 500px;
+	background-color: #8CB27C;
+	position: absolute;
+	padding: 20px;
+}
+
+.borde {
+	border: 2px solid white;
+	position: relative;
+	height: 460px;
+}
+.arcoi {
+	border: 2px solid white;
+	height: 200px;
+	width: 130px;
+	margin-top: 130px;
+	display: inline-block;
+}
+.circulo {
+	 border: 2px solid white;
+	 width: 200px;
+	 height: 200px;
+	 border-radius: 100%;
+	 display: inline-block;
+	 margin-left: 250px;
+}
+.arcod {
+	border: 2px solid white;
+	height: 200px;
+	width: 130px;
+	margin-top: 130px;
+	display: inline-block;
+	margin-left: 238px;
+
+}
+
+.bola1 {
+	position: absolute;
+	margin-top: 135px;
+	margin-left: 120px;
+}
+.bola2 {
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 70px;
+}
+.bola3 {
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 300px;
+}
+
+
